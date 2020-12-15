@@ -1,3 +1,4 @@
+jQuery.each(arr, function(i) { console.log(i); });
 var quotes = ["\"Be the CHANGE that you wish to see in the world.\" -Mahatma Gandhi",
 "\"The most wasted of days is one without laughter.\" -E.E. Cummings",
 "\"Believe you can and you're halfway there.\" -Theodore Roosevelt",
